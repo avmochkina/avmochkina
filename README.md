@@ -40,7 +40,7 @@
 
 [rsschool-cv](https://avmochkina.github.io/CV/)
 
-[cssBayan](https://anastan588.github.io/cssBayan/cssBayan/)
+[cssBayan](https://avmochkina.github.io/cssBayan/)
 
 [momentum](https://avmochkina.github.io/momentum/)
 
