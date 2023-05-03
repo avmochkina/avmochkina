@@ -24,12 +24,12 @@
 <br>
 <br>
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">Statistics</h2>
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
+<div style="display:flex; align-items:center; justify-content:center;">
 
 ![Anastasiya Avmochkina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avmochkina&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
@@ -38,14 +38,14 @@
 
 <h2 style="color: #44AEFB"> Statistics</h2>
 
-## [rsschool-cv](https://avmochkina.github.io/CV/)
+[rsschool-cv](https://avmochkina.github.io/CV/)
 
-## [cssBayan](https://anastan588.github.io/cssBayan/cssBayan/)
+[cssBayan](https://anastan588.github.io/cssBayan/cssBayan/)
 
-## [momentum](https://avmochkina.github.io/momentum/)
+[momentum](https://avmochkina.github.io/momentum/)
 
-## [shelter](https://avmochkina.github.io/shelter/pages/main/index.html)
+[shelter](https://avmochkina.github.io/shelter/pages/main/index.html)
 
-## [travel](https://avmochkina.github.io/travel-preschool/travel/)
+[travel](https://avmochkina.github.io/travel-preschool/travel/)
 
-## [Gem-Puzzle](https://avmochkina.github.io/Gem-Puzzle/)
+[Gem-Puzzle](https://avmochkina.github.io/Gem-Puzzle/)
