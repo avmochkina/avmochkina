@@ -36,7 +36,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avmochkina&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
-<h2 style="color: #44AEFB"> Statistics</h2>
+<h2 style="color: #44AEFB">My works</h2>
 
 [rsschool-cv](https://avmochkina.github.io/CV/)
 
