@@ -24,18 +24,6 @@
 <br>
 <br>
 
-<h2 style="color: #44AEFB">Statistics</h2>
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div style="display:flex; align-items:center; justify-content:center;">
-
-![Anastasiya Avmochkina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avmochkina&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avmochkina&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
 <h2 style="color: #44AEFB">My works</h2>
 
 [rsschool-cv](https://avmochkina.github.io/CV/)
